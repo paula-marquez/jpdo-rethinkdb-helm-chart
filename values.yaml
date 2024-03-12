@@ -1,7 +1,7 @@
 # Specs for the RethinkDB image
 image:
   name: pozetroninc/rethinkdb-cluster
-  tag: v2.4.1
+  tag: v2.4.4
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
